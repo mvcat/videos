@@ -3,7 +3,12 @@
 body{
     background-color: rgba(0, 0, 0, 0.612);
 }
+
 a{
     font-size: xx-large;
     color: white;
+}
+
+h1{
+    margin-top: 50px;;
 }
